@@ -21,7 +21,7 @@ Hi 👋 My name is Katie Solokhina
 Full Stack Developer
 --------------------
 
-*   🌍  I'm based in New York
+*   🌍  I'm based in Dallas, Texas
 *   🖥️  See my portfolio at [My Portfolio](http://www.kdreams.me)
 *   ✉️  You can contact me at [katiesolokhina@kdreams.me](mailto:katiesolokhina@kdreams.me)
 *   🧠  I'm learning SEO and AWS
