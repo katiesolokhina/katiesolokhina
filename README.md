@@ -22,7 +22,7 @@ Full Stack Developer
 --------------------
 
 *   🌍  I'm based in Dallas, Texas
-*   🖥️  See my portfolio at [My Portfolio](http://www.kdreams.me)
+*   🖥️  See my portfolio at [My Portfolio](http://www.katie.trisolocreations.com)
 *   ✉️  You can contact me at [katiesolokhina@kdreams.me](mailto:katiesolokhina@kdreams.me)
 *   🧠  I'm learning SEO and AWS
 *   🤝  I'm open to collaborating on fun and interesting projects
